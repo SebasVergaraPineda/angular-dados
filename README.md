@@ -1,6 +1,14 @@
 # Dados
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.6.
+Este proyecto lo realicé hace un buen tiempo con Angular 10  [Angular CLI](https://github.com/angular/angular-cli) version 10.0.6.
+Este pryecto trata sobre un juego de Dados el cual es muy sencillo pero resalto la logica interna que implementé, pues en el archivo de lógica del componente.ts debí implementar
+Funciones de javascript como Math.round y Math.random y hacer algunos calculos matemáticos para poder lograr el objetivo.
+
+Si lanzas los dados y sacas pares, Ganas pero si no sacas par debes segui jugando hasta sacar Par. 
+Realice una maquetación sencilla en HTML aplicando clases con CSS.
+
+Puedes ver mi proyecto en mi Netlify aqui: https://svergaraangulardados.netlify.app/
+
 
 ## Development server
 
